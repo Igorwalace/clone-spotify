@@ -59,6 +59,9 @@ header .menu-desktop ul li{
     background-color: rgb(29, 117, 222);
     padding: 40px 0;
 }
+.conteudo-call1{
+    text-align: center;
+}
 .conteudo-call1 h1{
     color: #ffff;
     padding-top: 15px;
