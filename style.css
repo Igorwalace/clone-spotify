@@ -7,8 +7,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: spotify-circular;
-    overflowX: hidden;
+    font-family: spotify-circular;;
 }
 .center{
     max-width: 1170px;
