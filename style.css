@@ -304,6 +304,9 @@ footer .final span:hover{
         justify-content: center;
         align-items: center;
     }
+    .planos{
+        padding-top: 35px;
+    }
     .single-planos{
         max-width: 440px;
     }
